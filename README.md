@@ -10,4 +10,4 @@
 * Math.random()
 
 ### Live Website Link
-<a href=''>Click</a>
+<a href='https://rejoyanislam.github.io/random-quote-generator/'>Click</a>
